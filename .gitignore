@@ -1,5 +1,5 @@
 # ==========================================
-# Optimized .gitignore for Python & COLMAP 3D Reconstruction
+# Optimized .gitignore for Python & COLMAP Research
 # ==========================================
 
 # --- Python Bytecode & Cache ---
@@ -45,22 +45,12 @@ colmap/*
 !colmap/.gitkeep
 colmap-x64-*/
 
-# --- Datasets & Heavy Media Files ---
-datasets/*
-!datasets/.gitkeep
-*.jpg
-*.jpeg
-*.png
-*.JPG
-*.PNG
-*.bmp
-*.tif
-*.tiff
+# --- Databases & Large Binary Files (> 100MB) ---
 *.db
 *.db-journal
 *.sqlite
 
-# --- Heavy 3D Reconstruction Output Files ---
+# --- Heavy 3D Reconstruction Mesh / Point Cloud Output Files ---
 *.ply
 *.obj
 *.off
