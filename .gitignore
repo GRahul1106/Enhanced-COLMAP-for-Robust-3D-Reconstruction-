@@ -1,50 +1,81 @@
-# Byte-compiled / optimized / DLL files
+# ==========================================
+# Optimized .gitignore for Python & COLMAP 3D Reconstruction
+# ==========================================
+
+# --- Python Bytecode & Cache ---
 __pycache__/
 *.py[cod]
 *$py.class
+.pytest_cache/
+.coverage
+htmlcov/
 
-# C extensions
-*.so
-
-# Distribution / packaging
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Virtual environments
+# --- Environment & Packaging ---
 .venv/
 venv/
 ENV/
 env/
+.conda/
+build/
+dist/
+*.egg-info/
+.eggs/
 
-# IDE & OS files
+# --- C/C++ Executables & Binaries ---
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+*.pdb
+*.obj
+*.o
+
+# --- IDE & OS Files ---
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
+*.swp
+*~
 
-# Datasets and COLMAP binaries
-datasets/*
-!datasets/.gitkeep
+# --- COLMAP Binaries & Installation ---
 colmap/*
 !colmap/.gitkeep
-colmap-x64-windows-nocuda/
+colmap-x64-*/
+
+# --- Datasets & Heavy Media Files ---
+datasets/*
+!datasets/.gitkeep
+*.jpg
+*.jpeg
+*.png
+*.JPG
+*.PNG
+*.bmp
+*.tif
+*.tiff
+*.db
+*.db-journal
+*.sqlite
+
+# --- Heavy 3D Reconstruction Output Files ---
+*.ply
+*.obj
+*.off
+*.stl
+*.nvm
+*.bundler
+
+# --- Large Results, Logs & Archives ---
 results/*
 !results/.gitkeep
+*.log
 *.zip
+*.tar
+*.gz
+*.7z
 *.z01
 *.z02
-
+*.rar
