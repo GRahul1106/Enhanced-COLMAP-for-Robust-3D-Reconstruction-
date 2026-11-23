@@ -1,0 +1,47 @@
+{
+  "dataset": "graham-hall-270-exterior-subset",
+  "scope": "270-image exterior sequence (IMG_0348.jpg to IMG_0617.jpg)",
+  "total_images": 270,
+  "enhanced_images_count": 28,
+  "unchanged_images_count": 242,
+  "clip_limit": 1.2,
+  "tile_grid_size": [
+    8,
+    8
+  ],
+  "selection_criteria": {
+    "contrast_stddev_threshold": 52.0,
+    "sift_feature_count_threshold": 10000
+  },
+  "enhanced_images": [
+    "IMG_0370.jpg",
+    "IMG_0389.jpg",
+    "IMG_0391.jpg",
+    "IMG_0414.jpg",
+    "IMG_0415.jpg",
+    "IMG_0419.jpg",
+    "IMG_0426.jpg",
+    "IMG_0427.jpg",
+    "IMG_0428.jpg",
+    "IMG_0466.jpg",
+    "IMG_0472.jpg",
+    "IMG_0523.jpg",
+    "IMG_0532.jpg",
+    "IMG_0572.jpg",
+    "IMG_0589.jpg",
+    "IMG_0590.jpg",
+    "IMG_0592.jpg",
+    "IMG_0599.jpg",
+    "IMG_0600.jpg",
+    "IMG_0601.jpg",
+    "IMG_0602.jpg",
+    "IMG_0605.jpg",
+    "IMG_0606.jpg",
+    "IMG_0608.jpg",
+    "IMG_0611.jpg",
+    "IMG_0614.jpg",
+    "IMG_0615.jpg",
+    "IMG_0617.jpg"
+  ],
+  "previews_directory": "experiments\\graham_hall\\variant_e\\previews"
+}

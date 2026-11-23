@@ -1,0 +1,54 @@
+{
+  "variant": "variant_a_clip2.0",
+  "dataset": "south-building",
+  "parameters": {
+    "clip_limit": 2.0,
+    "tile_grid_size": [
+      8,
+      8
+    ],
+    "blur_threshold": 80.0,
+    "contrast_threshold": 60.0
+  },
+  "counts": {
+    "unchanged": 100,
+    "clahe_only": 28,
+    "total": 128
+  },
+  "enhancement_time_s": 5.1,
+  "clahe_images": [
+    "P1180159.JPG",
+    "P1180162.JPG",
+    "P1180163.JPG",
+    "P1180164.JPG",
+    "P1180165.JPG",
+    "P1180166.JPG",
+    "P1180167.JPG",
+    "P1180168.JPG",
+    "P1180169.JPG",
+    "P1180170.JPG",
+    "P1180171.JPG",
+    "P1180174.JPG",
+    "P1180175.JPG",
+    "P1180176.JPG",
+    "P1180177.JPG",
+    "P1180178.JPG",
+    "P1180179.JPG",
+    "P1180180.JPG",
+    "P1180338.JPG",
+    "P1180339.JPG",
+    "P1180340.JPG",
+    "P1180341.JPG",
+    "P1180342.JPG",
+    "P1180343.JPG",
+    "P1180344.JPG",
+    "P1180345.JPG",
+    "P1180346.JPG",
+    "P1180347.JPG"
+  ],
+  "verifications": {
+    "input_count": 128,
+    "output_count": 128,
+    "match": true
+  }
+}

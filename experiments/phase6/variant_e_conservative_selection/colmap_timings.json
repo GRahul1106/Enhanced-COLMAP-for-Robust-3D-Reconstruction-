@@ -1,0 +1,7 @@
+{
+  "Feature Extraction (SIFT)": 35.92405557632446,
+  "Exhaustive Feature Matching": 1593.9757142066956,
+  "Sparse Reconstruction (mapper)": 230.40624046325684,
+  "Model Conversion (binary -> TXT)": 2.7829270362854004,
+  "total_sfm_time_s": 1863.1
+}

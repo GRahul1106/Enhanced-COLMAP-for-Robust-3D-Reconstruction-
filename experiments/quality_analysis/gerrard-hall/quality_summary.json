@@ -1,0 +1,42 @@
+{
+  "dataset_name": "gerrard-hall",
+  "total_images": 100,
+  "metrics_summary": {
+    "Blur_LaplacianVar": {
+      "mean": 146.66,
+      "std": 72.62,
+      "min": 24.2,
+      "p25": 95.34,
+      "p50_median": 142.42,
+      "p75": 201.48,
+      "max": 326.16
+    },
+    "Contrast_StdDev": {
+      "mean": 68.6,
+      "std": 6.04,
+      "min": 55.84,
+      "p25": 64.53,
+      "p50_median": 68.32,
+      "p75": 72.19,
+      "max": 85.5
+    },
+    "Brightness_Mean": {
+      "mean": 107.71,
+      "std": 9.47,
+      "min": 80.73,
+      "p25": 101.21,
+      "p50_median": 107.42,
+      "p75": 113.57,
+      "max": 137.84
+    },
+    "Noise_Sigma": {
+      "mean": 0.95,
+      "std": 0.25,
+      "min": 0.47,
+      "p25": 0.78,
+      "p50_median": 0.92,
+      "p75": 1.08,
+      "max": 1.58
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "dataset": "graham-hall-270-exterior-subset",
+  "scope": "270-image exterior sequence (IMG_0348.jpg to IMG_0617.jpg)",
+  "total_images": 270,
+  "enhanced_images_count": 28,
+  "unchanged_images_count": 242,
+  "sparse_model": {
+    "registered_images": 248,
+    "registration_rate_pct": 91.85,
+    "num_3d_points": 113775,
+    "mean_reprojection_error_px": 1.1125,
+    "median_reprojection_error_px": 1.0847,
+    "mean_observations_per_image": 2163.04,
+    "mean_track_length": 4.7149
+  },
+  "database_metrics": {
+    "database_size_bytes": 448471040,
+    "database_size_mb": 427.7,
+    "two_view_inliers": 1341551,
+    "verified_pairs_count": 4467,
+    "raw_matches": 1886137,
+    "raw_pairs_count": 19035
+  },
+  "timings": {
+    "feature_extraction_incremental_s": 12.5,
+    "exhaustive_matching_s": 6088.452419519424,
+    "sparse_mapping_s": 750.1673676967621,
+    "model_conversion_s": 4.5633461475372314,
+    "total_sfm_time_s": 6860.7
+  }
+}

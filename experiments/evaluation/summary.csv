@@ -1,0 +1,5 @@
+Dataset,Input_Images,Comparable,Enhanced_Images,Pct_Enhanced,Base_Reg_Images,Enh_Reg_Images,Reg_Images_Diff,Base_3D_Points,Enh_3D_Points,Points_Diff_Abs,Points_Diff_Pct,Base_Reproj_Error_px,Enh_Reproj_Error_px,Reproj_Error_Diff_Abs,Reproj_Error_Diff_Pct,Base_Mean_Observations,Enh_Mean_Observations,Obs_Diff_Abs,Base_Track_Length,Enh_Track_Length,Track_Length_Diff_Abs,Analysis_Time_s,Enhancement_Time_s,Base_SfM_Time_s,Enh_SfM_Time_s
+gerrard-hall,100,True,23,23.0,100,100,0,58127,58312,185,0.32,1.0769,1.0786,0.0017,0.16,3280.11,3278.64,-1.47,5.643,5.6226,-0.0204,49.0,9.0,1594.5,1241.1
+south-building,128,True,28,21.88,128,128,0,84557,81018,-3539,-4.19,0.6116,0.6255,0.0139,2.27,3924.48,3772.46,-152.02,5.9408,5.9601,0.0193,27.0,4.0,1979.1,1987.7
+person-hall,330,False,0,0.0,,,,,,,,,,,,,,,,,,,,,
+graham-hall,1273,False,0,0.0,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,45 @@
+{
+  "variant": "variant_e_conservative_selection",
+  "dataset": "south-building",
+  "selection_rule": "Contrast < 52.0 AND Baseline SIFT Features < 10000",
+  "parameters": {
+    "clip_limit": 1.2,
+    "tile_grid_size": [
+      8,
+      8
+    ],
+    "contrast_threshold": 52.0,
+    "sift_feature_threshold": 10000
+  },
+  "counts": {
+    "total_images": 128,
+    "enhanced_images": 2,
+    "unchanged_images": 126
+  },
+  "selected_images": [
+    "P1180166.JPG",
+    "P1180179.JPG"
+  ],
+  "qualifications": {
+    "P1180166.JPG": {
+      "contrast": 51.17,
+      "colmap_baseline_sift": 8432,
+      "triangulated_gain_at_clip12": 273,
+      "two_view_inlier_gain_at_clip12": 817,
+      "reason": "Contrast below 52 (51.17) and lowest decile feature density (8,432). Validated gain of +817 two-view inliers and +273 triangulated 3D points under CLAHE 1.2."
+    },
+    "P1180179.JPG": {
+      "contrast": 50.8,
+      "colmap_baseline_sift": 8276,
+      "triangulated_gain_at_clip12": 202,
+      "two_view_inlier_gain_at_clip12": 465,
+      "reason": "Contrast below 52 (50.80) and lowest 2% feature density (8,276). Validated gain of +465 two-view inliers and +202 triangulated 3D points under CLAHE 1.2."
+    }
+  },
+  "verifications": {
+    "input_count": 128,
+    "output_count": 128,
+    "enhanced_count": 2,
+    "verification_passed": true
+  }
+}

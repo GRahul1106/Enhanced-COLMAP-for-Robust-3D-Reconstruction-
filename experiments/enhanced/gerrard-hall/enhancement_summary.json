@@ -1,0 +1,24 @@
+{
+  "dataset": "gerrard-hall",
+  "thresholds": {
+    "blur_threshold": 80.0,
+    "contrast_threshold": 60.0
+  },
+  "counts": {
+    "unchanged_count": 77,
+    "clahe_only_count": 5,
+    "sharpen_only_count": 17,
+    "both_clahe_and_sharpened_count": 1,
+    "total_images": 100
+  },
+  "verifications": {
+    "input_image_count": 100,
+    "output_image_count": 100,
+    "csv_row_count": 100,
+    "category_sum": 100,
+    "is_input_equal_output": true,
+    "is_input_equal_csv_rows": true,
+    "is_category_sum_valid": true,
+    "verification_passed": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "dataset": "south-building",
+  "thresholds": {
+    "blur_threshold": 80.0,
+    "contrast_threshold": 60.0
+  },
+  "counts": {
+    "unchanged_count": 100,
+    "clahe_only_count": 28,
+    "sharpen_only_count": 0,
+    "both_clahe_and_sharpened_count": 0,
+    "total_images": 128
+  },
+  "verifications": {
+    "input_image_count": 128,
+    "output_image_count": 128,
+    "csv_row_count": 128,
+    "category_sum": 128,
+    "is_input_equal_output": true,
+    "is_input_equal_csv_rows": true,
+    "is_category_sum_valid": true,
+    "verification_passed": true
+  }
+}

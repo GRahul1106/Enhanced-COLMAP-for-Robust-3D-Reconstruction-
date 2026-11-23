@@ -1,0 +1,24 @@
+{
+  "dataset": "person-hall",
+  "variant": "variant_e_conservative_selection",
+  "total_images": 330,
+  "enhanced_images_count": 5,
+  "unchanged_images_count": 325,
+  "clip_limit": 1.2,
+  "tile_grid_size": [
+    8,
+    8
+  ],
+  "selection_criteria": {
+    "contrast_stddev_threshold": 52.0,
+    "sift_feature_count_threshold": 10000
+  },
+  "enhanced_images": [
+    "IMG_1179.JPG",
+    "IMG_1282.JPG",
+    "IMG_1312.JPG",
+    "IMG_1316.JPG",
+    "IMG_1323.JPG"
+  ],
+  "previews_directory": "experiments\\person_hall\\variant_e\\previews"
+}

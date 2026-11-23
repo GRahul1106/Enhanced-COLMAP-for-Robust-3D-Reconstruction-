@@ -1,0 +1,187 @@
+{
+  "dataset": "graham-hall-270-exterior-subset",
+  "scope": "270-image exterior sequence (IMG_0348.jpg to IMG_0617.jpg)",
+  "total_images": 270,
+  "sparse_model": {
+    "registered_images": 247,
+    "registration_rate_pct": 91.48,
+    "num_3d_points": 113644,
+    "mean_reprojection_error_px": 1.1068,
+    "median_reprojection_error_px": 1.0792,
+    "mean_observations_per_image": 2172.38,
+    "mean_track_length": 4.7216
+  },
+  "database_metrics": {
+    "database_size_bytes": 442908672,
+    "database_size_mb": 422.39,
+    "two_view_inliers": 1343083,
+    "verified_pairs_count": 4486,
+    "raw_matches": 1884261,
+    "raw_pairs_count": 18926
+  },
+  "timings": {
+    "feature_extraction_s": 135.63746237754822,
+    "exhaustive_matching_s": 6170.030274152756,
+    "sparse_mapping_s": 1346.4133460521698,
+    "model_conversion_s": 4.916102647781372,
+    "total_sfm_time_s": 7657.0
+  },
+  "variant_e_candidates_count": 31,
+  "variant_e_candidates": [
+    {
+      "Image": "IMG_0370.jpg",
+      "Contrast_StdDev": 47.51,
+      "SIFT_Features": 9832
+    },
+    {
+      "Image": "IMG_0389.jpg",
+      "Contrast_StdDev": 43.16,
+      "SIFT_Features": 9174
+    },
+    {
+      "Image": "IMG_0391.jpg",
+      "Contrast_StdDev": 42.17,
+      "SIFT_Features": 8428
+    },
+    {
+      "Image": "IMG_0409.jpg",
+      "Contrast_StdDev": 51.51,
+      "SIFT_Features": 0
+    },
+    {
+      "Image": "IMG_0414.jpg",
+      "Contrast_StdDev": 37.85,
+      "SIFT_Features": 8671
+    },
+    {
+      "Image": "IMG_0415.jpg",
+      "Contrast_StdDev": 48.72,
+      "SIFT_Features": 9675
+    },
+    {
+      "Image": "IMG_0419.jpg",
+      "Contrast_StdDev": 50.98,
+      "SIFT_Features": 8881
+    },
+    {
+      "Image": "IMG_0422.jpg",
+      "Contrast_StdDev": 50.1,
+      "SIFT_Features": 0
+    },
+    {
+      "Image": "IMG_0424.jpg",
+      "Contrast_StdDev": 42.36,
+      "SIFT_Features": 0
+    },
+    {
+      "Image": "IMG_0426.jpg",
+      "Contrast_StdDev": 40.58,
+      "SIFT_Features": 9920
+    },
+    {
+      "Image": "IMG_0427.jpg",
+      "Contrast_StdDev": 39.04,
+      "SIFT_Features": 9514
+    },
+    {
+      "Image": "IMG_0428.jpg",
+      "Contrast_StdDev": 40.1,
+      "SIFT_Features": 8949
+    },
+    {
+      "Image": "IMG_0466.jpg",
+      "Contrast_StdDev": 45.09,
+      "SIFT_Features": 9774
+    },
+    {
+      "Image": "IMG_0472.jpg",
+      "Contrast_StdDev": 39.72,
+      "SIFT_Features": 8838
+    },
+    {
+      "Image": "IMG_0523.jpg",
+      "Contrast_StdDev": 51.39,
+      "SIFT_Features": 9313
+    },
+    {
+      "Image": "IMG_0532.jpg",
+      "Contrast_StdDev": 51.32,
+      "SIFT_Features": 8938
+    },
+    {
+      "Image": "IMG_0572.jpg",
+      "Contrast_StdDev": 50.99,
+      "SIFT_Features": 9439
+    },
+    {
+      "Image": "IMG_0589.jpg",
+      "Contrast_StdDev": 32.57,
+      "SIFT_Features": 8741
+    },
+    {
+      "Image": "IMG_0590.jpg",
+      "Contrast_StdDev": 39.21,
+      "SIFT_Features": 8193
+    },
+    {
+      "Image": "IMG_0592.jpg",
+      "Contrast_StdDev": 26.67,
+      "SIFT_Features": 8542
+    },
+    {
+      "Image": "IMG_0599.jpg",
+      "Contrast_StdDev": 31.2,
+      "SIFT_Features": 9132
+    },
+    {
+      "Image": "IMG_0600.jpg",
+      "Contrast_StdDev": 30.49,
+      "SIFT_Features": 9806
+    },
+    {
+      "Image": "IMG_0601.jpg",
+      "Contrast_StdDev": 44.71,
+      "SIFT_Features": 9669
+    },
+    {
+      "Image": "IMG_0602.jpg",
+      "Contrast_StdDev": 37.67,
+      "SIFT_Features": 7910
+    },
+    {
+      "Image": "IMG_0605.jpg",
+      "Contrast_StdDev": 28.93,
+      "SIFT_Features": 7125
+    },
+    {
+      "Image": "IMG_0606.jpg",
+      "Contrast_StdDev": 37.45,
+      "SIFT_Features": 8706
+    },
+    {
+      "Image": "IMG_0608.jpg",
+      "Contrast_StdDev": 43.28,
+      "SIFT_Features": 9538
+    },
+    {
+      "Image": "IMG_0611.jpg",
+      "Contrast_StdDev": 31.01,
+      "SIFT_Features": 8753
+    },
+    {
+      "Image": "IMG_0614.jpg",
+      "Contrast_StdDev": 37.52,
+      "SIFT_Features": 8661
+    },
+    {
+      "Image": "IMG_0615.jpg",
+      "Contrast_StdDev": 36.31,
+      "SIFT_Features": 8940
+    },
+    {
+      "Image": "IMG_0617.jpg",
+      "Contrast_StdDev": 38.29,
+      "SIFT_Features": 8967
+    }
+  ]
+}

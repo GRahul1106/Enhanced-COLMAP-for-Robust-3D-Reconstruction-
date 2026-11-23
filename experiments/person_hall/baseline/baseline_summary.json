@@ -1,0 +1,55 @@
+{
+  "dataset": "person-hall",
+  "total_images": 330,
+  "sparse_model": {
+    "registered_images": 330,
+    "num_3d_points": 206994,
+    "mean_reprojection_error_px": 1.255,
+    "median_reprojection_error_px": 1.2608,
+    "mean_observations_per_image": 4308.24,
+    "mean_track_length": 6.8684
+  },
+  "database_metrics": {
+    "database_size_bytes": 718852096,
+    "database_size_mb": 685.55,
+    "two_view_inliers": 7468981,
+    "verified_pairs_count": 7347,
+    "raw_matches": 8095021,
+    "raw_pairs_count": 17986
+  },
+  "timings": {
+    "feature_extraction_s": 173.70799899101257,
+    "exhaustive_matching_s": 14485.554551839828,
+    "sparse_mapping_s": 2316.527501344681,
+    "model_conversion_s": 7.840295791625977,
+    "total_sfm_time_s": 16983.8
+  },
+  "variant_e_candidates_count": 5,
+  "variant_e_candidates": [
+    {
+      "Image": "IMG_1179.JPG",
+      "Contrast_StdDev": 37.19,
+      "SIFT_Features": 9743
+    },
+    {
+      "Image": "IMG_1282.JPG",
+      "Contrast_StdDev": 49.25,
+      "SIFT_Features": 8359
+    },
+    {
+      "Image": "IMG_1312.JPG",
+      "Contrast_StdDev": 46.94,
+      "SIFT_Features": 9504
+    },
+    {
+      "Image": "IMG_1316.JPG",
+      "Contrast_StdDev": 44.74,
+      "SIFT_Features": 9617
+    },
+    {
+      "Image": "IMG_1323.JPG",
+      "Contrast_StdDev": 51.48,
+      "SIFT_Features": 8867
+    }
+  ]
+}

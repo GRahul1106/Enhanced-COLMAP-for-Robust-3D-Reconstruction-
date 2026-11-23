@@ -1,0 +1,5 @@
+Dataset,Configuration,Variant_ID,Clip_Limit,Tile_Grid,Total_Images,Enhanced_Images,Registered_Images,Points_3D,Mean_Reproj_Error_px,Mean_Obs_Per_Image,Mean_Track_Length,Database_Bytes,SfM_Time_s
+south-building,Baseline (Original),baseline,N/A,N/A,128,0,128,84557,0.6116,3924.48,5.9408,245817344,1979.1
+south-building,Phase 5 Adaptive (clipLimit=2.0, 28 img),variant_a_clip2.0,2.0,(8;8),128,28,128,81018,0.6255,3772.46,5.9601,239853568,1987.7
+south-building,Phase 6 Variant C (clipLimit=1.2, 28 img),variant_c_clip1.2,1.2,(8;8),128,28,128,81723,0.6233,3812.22,5.9710,242733056,1915.6
+south-building,Phase 6 Variant E (clipLimit=1.2, Conservative 2 img),variant_e_conservative_selection,1.2,(8;8),128,2,128,84593,0.6120,3925.08,5.9391,246075392,1863.1

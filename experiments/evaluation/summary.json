@@ -1,0 +1,212 @@
+[
+  {
+    "dataset": "gerrard-hall",
+    "input_images": 100,
+    "has_baseline_run": true,
+    "has_enhanced_run": true,
+    "is_comparable": true,
+    "enhancement": {
+      "enhanced_images": 23,
+      "percentage_enhanced": 23.0,
+      "categories": {
+        "unchanged_count": 77,
+        "clahe_only_count": 5,
+        "sharpen_only_count": 17,
+        "both_clahe_and_sharpened_count": 1,
+        "total_images": 100
+      },
+      "analysis_time_s": 49.0,
+      "enhancement_time_s": 9.0
+    },
+    "baseline": {
+      "registered_images": 100,
+      "registration_rate_pct": 100.0,
+      "num_points": 58127,
+      "mean_reprojection_error_px": 1.0769,
+      "mean_observations_per_image": 3280.11,
+      "mean_track_length": 5.643,
+      "timings_s": {
+        "Feature Extraction (SIFT)": 64.3,
+        "Exhaustive Feature Matching": 934.9,
+        "Sparse Reconstruction / SfM (mapper)": 592.7,
+        "Model Conversion (binary to TXT)": 2.6,
+        "total_sfm_time_s": 1594.5
+      }
+    },
+    "enhanced": {
+      "registered_images": 100,
+      "registration_rate_pct": 100.0,
+      "num_points": 58312,
+      "mean_reprojection_error_px": 1.0786,
+      "mean_observations_per_image": 3278.64,
+      "mean_track_length": 5.6226,
+      "timings_s": {
+        "Feature Extraction (SIFT)": 48.8,
+        "Exhaustive Feature Matching": 977.0,
+        "Sparse Reconstruction / SfM (mapper)": 213.3,
+        "Model Conversion (binary to TXT)": 2.0,
+        "total_sfm_time_s": 1241.1
+      }
+    },
+    "comparison": {
+      "registered_images_diff": {
+        "abs": 0,
+        "pct": 0.0
+      },
+      "points_diff": {
+        "abs": 185,
+        "pct": 0.32
+      },
+      "reprojection_error_diff": {
+        "abs": 0.0017,
+        "pct": 0.16
+      },
+      "observations_diff": {
+        "abs": -1.47,
+        "pct": -0.04
+      },
+      "track_length_diff": {
+        "abs": -0.0204,
+        "pct": -0.36
+      }
+    }
+  },
+  {
+    "dataset": "south-building",
+    "input_images": 128,
+    "has_baseline_run": true,
+    "has_enhanced_run": true,
+    "is_comparable": true,
+    "enhancement": {
+      "enhanced_images": 28,
+      "percentage_enhanced": 21.88,
+      "categories": {
+        "unchanged_count": 100,
+        "clahe_only_count": 28,
+        "sharpen_only_count": 0,
+        "both_clahe_and_sharpened_count": 0,
+        "total_images": 128
+      },
+      "analysis_time_s": 27.0,
+      "enhancement_time_s": 4.0
+    },
+    "baseline": {
+      "registered_images": 128,
+      "registration_rate_pct": 100.0,
+      "num_points": 84557,
+      "mean_reprojection_error_px": 0.6116,
+      "mean_observations_per_image": 3924.48,
+      "mean_track_length": 5.9408,
+      "timings_s": {
+        "Feature Extraction (SIFT)": 75.4,
+        "Exhaustive Feature Matching": 1632.4,
+        "Sparse Reconstruction / SfM (mapper)": 268.1,
+        "Model Conversion (binary to TXT)": 3.2,
+        "total_sfm_time_s": 1979.1
+      }
+    },
+    "enhanced": {
+      "registered_images": 128,
+      "registration_rate_pct": 100.0,
+      "num_points": 81018,
+      "mean_reprojection_error_px": 0.6255,
+      "mean_observations_per_image": 3772.46,
+      "mean_track_length": 5.9601,
+      "timings_s": {
+        "Feature Extraction (SIFT)": 37.5,
+        "Exhaustive Feature Matching": 1686.7,
+        "Sparse Reconstruction / SfM (mapper)": 260.0,
+        "Model Conversion (binary -> TXT)": 3.5,
+        "total_sfm_time_s": 1987.7
+      }
+    },
+    "comparison": {
+      "registered_images_diff": {
+        "abs": 0,
+        "pct": 0.0
+      },
+      "points_diff": {
+        "abs": -3539,
+        "pct": -4.19
+      },
+      "reprojection_error_diff": {
+        "abs": 0.0139,
+        "pct": 2.27
+      },
+      "observations_diff": {
+        "abs": -152.02,
+        "pct": -3.87
+      },
+      "track_length_diff": {
+        "abs": 0.0193,
+        "pct": 0.32
+      }
+    }
+  },
+  {
+    "dataset": "person-hall",
+    "input_images": 330,
+    "has_baseline_run": false,
+    "has_enhanced_run": false,
+    "is_comparable": false,
+    "enhancement": {
+      "enhanced_images": 0,
+      "percentage_enhanced": 0.0,
+      "categories": {},
+      "analysis_time_s": null,
+      "enhancement_time_s": null
+    },
+    "baseline": {
+      "registered_images": null,
+      "registration_rate_pct": null,
+      "num_points": null,
+      "mean_reprojection_error_px": null,
+      "mean_observations_per_image": null,
+      "mean_track_length": null,
+      "timings_s": {}
+    },
+    "enhanced": {
+      "registered_images": null,
+      "registration_rate_pct": null,
+      "num_points": null,
+      "mean_reprojection_error_px": null,
+      "mean_observations_per_image": null,
+      "mean_track_length": null,
+      "timings_s": {}
+    },
+    "comparison": {}
+  },
+  {
+    "dataset": "graham-hall",
+    "input_images": 1273,
+    "has_baseline_run": false,
+    "has_enhanced_run": false,
+    "is_comparable": false,
+    "enhancement": {
+      "enhanced_images": 0,
+      "percentage_enhanced": 0.0,
+      "categories": {},
+      "analysis_time_s": null,
+      "enhancement_time_s": null
+    },
+    "baseline": {
+      "registered_images": null,
+      "registration_rate_pct": null,
+      "num_points": null,
+      "mean_reprojection_error_px": null,
+      "mean_observations_per_image": null,
+      "mean_track_length": null,
+      "timings_s": {}
+    },
+    "enhanced": {
+      "registered_images": null,
+      "registration_rate_pct": null,
+      "num_points": null,
+      "mean_reprojection_error_px": null,
+      "mean_observations_per_image": null,
+      "mean_track_length": null,
+      "timings_s": {}
+    },
+    "comparison": {}
+  }
+]

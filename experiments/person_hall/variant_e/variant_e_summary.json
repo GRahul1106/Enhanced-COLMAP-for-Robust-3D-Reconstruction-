@@ -1,0 +1,32 @@
+{
+  "dataset": "person-hall",
+  "variant": "variant_e_conservative_selection",
+  "total_images": 330,
+  "enhanced_images_count": 5,
+  "unchanged_images_count": 325,
+  "sparse_model": {
+    "registered_images": 330,
+    "registration_rate_pct": 100.0,
+    "num_3d_points": 207851,
+    "mean_reprojection_error_px": 1.2569,
+    "median_reprojection_error_px": 1.2627,
+    "mean_observations_per_image": 4313.19,
+    "mean_track_length": 6.8479
+  },
+  "database_metrics": {
+    "database_size_bytes": 719331328,
+    "database_size_mb": 686.01,
+    "two_view_inliers": 7464515,
+    "verified_pairs_count": 7343,
+    "raw_matches": 8089898,
+    "raw_pairs_count": 18002
+  },
+  "timings": {
+    "historical_feature_extraction_5_enhanced_s": 5.7,
+    "baseline_feature_extraction_reference_s": 173.7,
+    "historical_exhaustive_matching_s": 13037.5,
+    "measured_sparse_mapping_s": 4511.6,
+    "measured_model_conversion_s": 22.6,
+    "total_sfm_pipeline_reconstructed_s": 17577.4
+  }
+}

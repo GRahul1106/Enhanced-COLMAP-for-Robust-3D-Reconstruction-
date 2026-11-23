@@ -1,0 +1,101 @@
+Image,Blur,Contrast,Noise_Sigma,Category,Operations_Applied,Output_Path
+IMG_2331.JPG,118.51,70.99,0.8,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2331.JPG
+IMG_2332.JPG,130.03,68.93,0.91,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2332.JPG
+IMG_2333.JPG,297.62,68.87,1.36,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2333.JPG
+IMG_2334.JPG,298.23,70.12,1.38,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2334.JPG
+IMG_2335.JPG,167.13,73.56,0.99,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2335.JPG
+IMG_2336.JPG,152.74,77.37,0.94,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2336.JPG
+IMG_2337.JPG,149.44,78.93,0.93,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2337.JPG
+IMG_2338.JPG,88.6,74.66,0.76,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2338.JPG
+IMG_2339.JPG,174.0,74.77,1.02,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2339.JPG
+IMG_2340.JPG,107.91,68.79,0.83,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2340.JPG
+IMG_2341.JPG,138.38,68.49,0.93,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2341.JPG
+IMG_2342.JPG,81.44,67.79,0.71,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2342.JPG
+IMG_2343.JPG,158.5,67.11,0.93,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2343.JPG
+IMG_2344.JPG,129.07,66.25,0.89,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2344.JPG
+IMG_2345.JPG,55.9,64.81,0.6,sharpen_only,Sharpen,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2345.JPG
+IMG_2346.JPG,120.54,65.95,0.9,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2346.JPG
+IMG_2347.JPG,48.98,67.09,0.56,sharpen_only,Sharpen,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2347.JPG
+IMG_2348.JPG,150.5,65.66,0.95,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2348.JPG
+IMG_2349.JPG,183.89,64.2,1.0,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2349.JPG
+IMG_2350.JPG,146.13,63.31,0.84,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2350.JPG
+IMG_2351.JPG,207.61,66.58,1.01,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2351.JPG
+IMG_2352.JPG,201.48,65.27,0.93,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2352.JPG
+IMG_2353.JPG,219.19,66.21,0.98,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2353.JPG
+IMG_2354.JPG,81.3,64.04,0.64,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2354.JPG
+IMG_2355.JPG,53.98,65.26,0.58,sharpen_only,Sharpen,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2355.JPG
+IMG_2356.JPG,154.63,66.15,0.84,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2356.JPG
+IMG_2357.JPG,163.23,60.83,0.91,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2357.JPG
+IMG_2358.JPG,124.83,64.19,0.81,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2358.JPG
+IMG_2359.JPG,180.89,64.64,0.92,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2359.JPG
+IMG_2360.JPG,252.78,60.23,1.06,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2360.JPG
+IMG_2361.JPG,217.3,55.84,1.05,clahe_only,CLAHE,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2361.JPG
+IMG_2362.JPG,173.57,63.09,0.95,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2362.JPG
+IMG_2363.JPG,188.58,59.37,0.92,clahe_only,CLAHE,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2363.JPG
+IMG_2364.JPG,93.69,71.24,0.72,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2364.JPG
+IMG_2365.JPG,164.73,58.79,0.88,clahe_only,CLAHE,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2365.JPG
+IMG_2366.JPG,119.36,69.51,0.83,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2366.JPG
+IMG_2367.JPG,66.88,56.28,0.63,clahe_and_sharpen,CLAHE + Sharpen,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2367.JPG
+IMG_2368.JPG,43.03,70.13,0.53,sharpen_only,Sharpen,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2368.JPG
+IMG_2369.JPG,98.19,68.29,0.73,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2369.JPG
+IMG_2370.JPG,141.77,71.5,0.89,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2370.JPG
+IMG_2371.JPG,148.62,70.48,0.9,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2371.JPG
+IMG_2372.JPG,100.37,72.32,0.76,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2372.JPG
+IMG_2373.JPG,97.95,72.59,0.76,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2373.JPG
+IMG_2374.JPG,163.8,73.67,0.97,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2374.JPG
+IMG_2375.JPG,85.37,74.23,0.7,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2375.JPG
+IMG_2376.JPG,163.89,74.27,0.98,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2376.JPG
+IMG_2377.JPG,70.21,74.21,0.69,sharpen_only,Sharpen,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2377.JPG
+IMG_2378.JPG,24.2,73.42,0.47,sharpen_only,Sharpen,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2378.JPG
+IMG_2379.JPG,143.06,72.37,0.97,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2379.JPG
+IMG_2380.JPG,204.19,68.35,1.15,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2380.JPG
+IMG_2381.JPG,131.18,68.24,0.95,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2381.JPG
+IMG_2382.JPG,178.37,67.84,1.14,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2382.JPG
+IMG_2383.JPG,206.65,64.8,1.24,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2383.JPG
+IMG_2384.JPG,302.98,65.2,1.51,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2384.JPG
+IMG_2385.JPG,228.65,63.48,1.3,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2385.JPG
+IMG_2386.JPG,235.59,75.12,1.2,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2386.JPG
+IMG_2387.JPG,66.01,62.78,0.7,sharpen_only,Sharpen,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2387.JPG
+IMG_2388.JPG,167.91,62.55,1.16,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2388.JPG
+IMG_2389.JPG,234.15,63.54,1.36,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2389.JPG
+IMG_2390.JPG,281.25,58.91,1.52,clahe_only,CLAHE,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2390.JPG
+IMG_2391.JPG,209.74,69.52,1.17,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2391.JPG
+IMG_2392.JPG,166.82,60.18,1.09,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2392.JPG
+IMG_2393.JPG,210.61,60.75,1.26,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2393.JPG
+IMG_2394.JPG,201.5,68.43,1.29,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2394.JPG
+IMG_2395.JPG,296.9,67.61,1.58,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2395.JPG
+IMG_2396.JPG,134.49,69.78,1.1,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2396.JPG
+IMG_2397.JPG,77.52,72.22,0.8,sharpen_only,Sharpen,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2397.JPG
+IMG_2398.JPG,143.53,71.9,1.07,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2398.JPG
+IMG_2399.JPG,266.26,72.54,1.46,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2399.JPG
+IMG_2400.JPG,29.42,68.91,0.57,sharpen_only,Sharpen,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2400.JPG
+IMG_2401.JPG,42.03,65.22,0.63,sharpen_only,Sharpen,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2401.JPG
+IMG_2402.JPG,211.18,70.39,1.29,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2402.JPG
+IMG_2403.JPG,326.16,70.31,1.58,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2403.JPG
+IMG_2404.JPG,131.56,66.24,1.04,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2404.JPG
+IMG_2405.JPG,265.18,64.87,1.41,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2405.JPG
+IMG_2406.JPG,150.25,65.11,1.06,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2406.JPG
+IMG_2407.JPG,110.87,62.81,0.91,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2407.JPG
+IMG_2408.JPG,103.69,62.08,0.9,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2408.JPG
+IMG_2409.JPG,54.2,63.1,0.73,sharpen_only,Sharpen,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2409.JPG
+IMG_2410.JPG,24.74,62.59,0.56,sharpen_only,Sharpen,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2410.JPG
+IMG_2411.JPG,107.48,63.86,0.89,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2411.JPG
+IMG_2412.JPG,130.82,63.76,0.95,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2412.JPG
+IMG_2413.JPG,95.85,67.24,0.89,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2413.JPG
+IMG_2414.JPG,25.22,67.92,0.56,sharpen_only,Sharpen,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2414.JPG
+IMG_2415.JPG,116.42,68.8,0.9,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2415.JPG
+IMG_2416.JPG,43.77,72.18,0.62,sharpen_only,Sharpen,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2416.JPG
+IMG_2417.JPG,32.24,73.4,0.56,sharpen_only,Sharpen,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2417.JPG
+IMG_2418.JPG,103.21,82.57,0.84,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2418.JPG
+IMG_2419.JPG,124.23,85.5,0.88,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2419.JPG
+IMG_2420.JPG,93.81,85.25,0.78,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2420.JPG
+IMG_2421.JPG,163.2,84.96,0.92,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2421.JPG
+IMG_2422.JPG,250.07,84.79,1.19,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2422.JPG
+IMG_2423.JPG,84.43,76.17,0.79,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2423.JPG
+IMG_2424.JPG,98.06,78.83,0.81,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2424.JPG
+IMG_2425.JPG,281.88,73.61,1.33,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2425.JPG
+IMG_2426.JPG,226.05,71.1,1.2,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2426.JPG
+IMG_2427.JPG,115.65,69.71,0.97,unchanged,None (Copied Unchanged),E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2427.JPG
+IMG_2428.JPG,51.09,72.08,0.68,sharpen_only,Sharpen,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2428.JPG
+IMG_2429.JPG,56.36,70.89,0.69,sharpen_only,Sharpen,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2429.JPG
+IMG_2430.JPG,230.96,59.86,1.16,clahe_only,CLAHE,E:\CV Project\experiments\enhanced\gerrard-hall\images\IMG_2430.JPG

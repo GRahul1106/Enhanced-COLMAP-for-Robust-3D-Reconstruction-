@@ -1,0 +1,74 @@
+{
+  "dataset": "graham-hall-270-exterior-subset",
+  "scope": "270-image exterior sequence (IMG_0348.jpg to IMG_0617.jpg)",
+  "registered_images": {
+    "baseline": 247,
+    "variant_e": 248,
+    "delta": 1
+  },
+  "registration_rate_pct": {
+    "baseline": 91.48,
+    "variant_e": 91.85,
+    "delta_pct": 0.37
+  },
+  "num_3d_points": {
+    "baseline": 113644,
+    "variant_e": 113775,
+    "delta_abs": 131,
+    "delta_pct": 0.115
+  },
+  "mean_reprojection_error_px": {
+    "baseline": 1.1068,
+    "variant_e": 1.1125,
+    "delta_abs": 0.0057
+  },
+  "median_reprojection_error_px": {
+    "baseline": 1.0792,
+    "variant_e": 1.0847,
+    "delta_abs": 0.0055
+  },
+  "mean_observations_per_image": {
+    "baseline": 2172.38,
+    "variant_e": 2163.04,
+    "delta_abs": -9.34
+  },
+  "mean_track_length": {
+    "baseline": 4.7216,
+    "variant_e": 4.7149,
+    "delta_abs": -0.0067
+  },
+  "two_view_inliers": {
+    "baseline": 1343083,
+    "variant_e": 1341551,
+    "delta_abs": -1532,
+    "delta_pct": -0.114
+  },
+  "verified_pairs_count": {
+    "baseline": 4486,
+    "variant_e": 4467,
+    "delta_abs": -19
+  },
+  "database_size_mb": {
+    "baseline": 422.39,
+    "variant_e": 427.7,
+    "delta_mb": 5.31
+  },
+  "stage_runtimes_s": {
+    "feature_extraction": {
+      "baseline": 135.63746237754822,
+      "variant_e_incremental": 12.5
+    },
+    "exhaustive_matching": {
+      "baseline": 6170.030274152756,
+      "variant_e": 6088.452419519424
+    },
+    "sparse_mapping": {
+      "baseline": 1346.4133460521698,
+      "variant_e": 750.1673676967621
+    },
+    "model_conversion": {
+      "baseline": 4.916102647781372,
+      "variant_e": 4.5633461475372314
+    }
+  }
+}

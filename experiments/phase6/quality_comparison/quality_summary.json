@@ -1,0 +1,93 @@
+{
+  "original": {
+    "sift_keypoints": {
+      "mean": 95946.9,
+      "std": 34737.8,
+      "min": 44445,
+      "max": 151753,
+      "total": 2686513
+    },
+    "contrast_stddev": {
+      "mean": 53.37,
+      "std": 2.77
+    },
+    "blur_laplacian_var": {
+      "mean": 273.08
+    },
+    "mean_intensity": {
+      "mean": 127.45
+    }
+  },
+  "variant_a_clip2.0": {
+    "sift_keypoints": {
+      "mean": 142906.9,
+      "std": 39405.0,
+      "min": 82100,
+      "max": 193986,
+      "total": 4001392
+    },
+    "contrast_stddev": {
+      "mean": 64.73,
+      "std": 1.91
+    },
+    "blur_laplacian_var": {
+      "mean": 826.28
+    },
+    "mean_intensity": {
+      "mean": 128.56
+    },
+    "hist_correlation_vs_original": {
+      "mean": 0.8045,
+      "min": 0.4677,
+      "max": 0.8959
+    }
+  },
+  "variant_b_clip1.5": {
+    "sift_keypoints": {
+      "mean": 137026.4,
+      "std": 39280.4,
+      "min": 76920,
+      "max": 189776,
+      "total": 3836740
+    },
+    "contrast_stddev": {
+      "mean": 62.06,
+      "std": 1.93
+    },
+    "blur_laplacian_var": {
+      "mean": 668.87
+    },
+    "mean_intensity": {
+      "mean": 128.85
+    },
+    "hist_correlation_vs_original": {
+      "mean": 0.8625,
+      "min": 0.5774,
+      "max": 0.9518
+    }
+  },
+  "variant_c_clip1.2": {
+    "sift_keypoints": {
+      "mean": 131643.2,
+      "std": 38861.0,
+      "min": 72684,
+      "max": 185025,
+      "total": 3686011
+    },
+    "contrast_stddev": {
+      "mean": 60.21,
+      "std": 1.95
+    },
+    "blur_laplacian_var": {
+      "mean": 572.31
+    },
+    "mean_intensity": {
+      "mean": 128.96
+    },
+    "hist_correlation_vs_original": {
+      "mean": 0.8915,
+      "min": 0.6381,
+      "max": 0.973
+    }
+  }
+}

@@ -45,14 +45,25 @@ colmap/*
 !colmap/.gitkeep
 colmap-x64-*/
 
-# --- Databases & Large Binary Files (> 100MB) ---
+# --- Databases & SQLite Binary Files (> 100MB) ---
 *.db
 *.db-journal
 *.sqlite
 
-# --- Heavy 3D Reconstruction Mesh / Point Cloud Output Files ---
+# --- Raw Benchmark Datasets & Intermediate Image Copies (> 60GB) ---
+datasets/**/images/
+datasets/graham-hall/Part2/
+datasets/graham-hall/Part3/
+datasets/graham-hall/Part4/
+datasets/graham-hall/Part5/
+datasets/graham-hall/Part6/
+datasets/person-hall/Part2/
+experiments/**/images/
+
+# --- Large 2D Keypoint & Binary Model Files (> 50MB / GitHub 100MB Limit) ---
+*.bin
+**/sparse/**/images.txt
 *.ply
-*.obj
 *.off
 *.stl
 *.nvm

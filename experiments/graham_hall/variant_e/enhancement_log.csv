@@ -1,0 +1,271 @@
+Image,Status,Contrast_Original,Contrast_Enhanced,Baseline_SIFT,Parameters
+IMG_0348.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0349.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0350.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0351.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0352.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0353.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0354.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0355.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0356.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0357.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0358.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0359.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0360.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0361.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0362.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0363.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0364.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0365.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0366.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0367.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0368.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0369.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0370.jpg,Enhanced,47.51,53.8,9832,"clip=1.2, grid=(8, 8)"
+IMG_0371.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0372.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0373.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0374.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0375.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0376.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0377.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0378.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0379.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0380.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0381.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0382.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0383.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0384.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0385.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0386.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0387.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0388.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0389.jpg,Enhanced,43.16,47.42,9174,"clip=1.2, grid=(8, 8)"
+IMG_0390.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0391.jpg,Enhanced,42.17,51.77,8428,"clip=1.2, grid=(8, 8)"
+IMG_0392.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0393.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0394.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0395.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0396.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0397.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0398.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0399.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0400.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0401.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0402.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0403.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0404.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0405.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0406.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0407.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0408.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0409.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0410.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0411.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0412.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0413.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0414.jpg,Enhanced,37.85,50.67,8671,"clip=1.2, grid=(8, 8)"
+IMG_0415.jpg,Enhanced,48.72,55.28,9675,"clip=1.2, grid=(8, 8)"
+IMG_0416.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0417.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0418.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0419.jpg,Enhanced,50.98,56.03,8881,"clip=1.2, grid=(8, 8)"
+IMG_0420.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0421.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0422.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0423.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0424.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0425.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0426.jpg,Enhanced,40.58,50.94,9920,"clip=1.2, grid=(8, 8)"
+IMG_0427.jpg,Enhanced,39.04,48.46,9514,"clip=1.2, grid=(8, 8)"
+IMG_0428.jpg,Enhanced,40.1,46.85,8949,"clip=1.2, grid=(8, 8)"
+IMG_0429.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0430.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0431.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0432.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0433.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0434.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0435.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0436.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0437.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0438.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0439.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0440.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0441.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0442.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0443.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0444.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0445.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0446.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0447.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0448.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0449.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0450.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0451.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0452.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0453.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0454.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0455.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0456.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0457.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0458.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0459.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0460.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0461.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0462.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0463.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0464.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0465.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0466.jpg,Enhanced,45.09,57.68,9774,"clip=1.2, grid=(8, 8)"
+IMG_0467.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0468.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0469.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0470.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0471.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0472.jpg,Enhanced,39.72,53.04,8838,"clip=1.2, grid=(8, 8)"
+IMG_0473.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0474.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0475.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0476.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0477.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0478.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0479.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0480.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0481.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0482.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0483.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0484.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0485.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0486.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0487.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0488.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0489.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0490.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0491.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0492.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0493.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0494.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0495.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0496.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0497.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0498.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0499.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0500.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0501.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0502.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0503.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0504.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0505.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0506.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0507.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0508.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0509.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0510.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0511.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0512.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0513.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0514.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0515.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0516.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0517.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0518.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0519.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0520.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0521.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0522.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0523.jpg,Enhanced,51.39,53.04,9313,"clip=1.2, grid=(8, 8)"
+IMG_0524.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0525.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0526.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0527.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0528.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0529.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0530.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0531.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0532.jpg,Enhanced,51.32,57.33,8938,"clip=1.2, grid=(8, 8)"
+IMG_0533.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0534.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0535.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0536.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0537.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0538.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0539.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0540.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0541.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0542.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0543.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0544.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0545.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0546.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0547.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0548.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0549.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0550.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0551.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0552.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0553.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0554.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0555.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0556.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0557.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0558.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0559.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0560.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0561.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0562.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0563.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0564.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0565.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0566.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0567.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0568.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0569.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0570.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0571.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0572.jpg,Enhanced,50.99,55.4,9439,"clip=1.2, grid=(8, 8)"
+IMG_0573.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0574.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0575.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0576.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0577.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0578.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0579.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0580.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0581.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0582.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0583.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0584.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0585.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0586.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0587.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0588.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0589.jpg,Enhanced,32.57,44.77,8741,"clip=1.2, grid=(8, 8)"
+IMG_0590.jpg,Enhanced,39.21,44.05,8193,"clip=1.2, grid=(8, 8)"
+IMG_0591.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0592.jpg,Enhanced,26.67,38.04,8542,"clip=1.2, grid=(8, 8)"
+IMG_0593.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0594.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0595.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0596.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0597.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0598.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0599.jpg,Enhanced,31.2,41.8,9132,"clip=1.2, grid=(8, 8)"
+IMG_0600.jpg,Enhanced,30.49,43.63,9806,"clip=1.2, grid=(8, 8)"
+IMG_0601.jpg,Enhanced,44.71,55.82,9669,"clip=1.2, grid=(8, 8)"
+IMG_0602.jpg,Enhanced,37.67,46.87,7910,"clip=1.2, grid=(8, 8)"
+IMG_0603.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0604.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0605.jpg,Enhanced,28.93,37.96,7125,"clip=1.2, grid=(8, 8)"
+IMG_0606.jpg,Enhanced,37.45,46.81,8706,"clip=1.2, grid=(8, 8)"
+IMG_0607.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0608.jpg,Enhanced,43.28,47.47,9538,"clip=1.2, grid=(8, 8)"
+IMG_0609.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0610.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0611.jpg,Enhanced,31.01,36.38,8753,"clip=1.2, grid=(8, 8)"
+IMG_0612.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0613.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0614.jpg,Enhanced,37.52,48.51,8661,"clip=1.2, grid=(8, 8)"
+IMG_0615.jpg,Enhanced,36.31,46.75,8940,"clip=1.2, grid=(8, 8)"
+IMG_0616.jpg,Unchanged,-,-,-,Copied unmodified
+IMG_0617.jpg,Enhanced,38.29,48.98,8967,"clip=1.2, grid=(8, 8)"

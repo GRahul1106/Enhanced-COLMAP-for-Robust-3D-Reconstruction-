@@ -1,0 +1,73 @@
+{
+  "dataset": "person-hall",
+  "registered_images": {
+    "baseline": 330,
+    "variant_e": 330,
+    "delta": 0
+  },
+  "registration_rate_pct": {
+    "baseline": 100.0,
+    "variant_e": 100.0,
+    "delta_pct": 0.0
+  },
+  "num_3d_points": {
+    "baseline": 206994,
+    "variant_e": 207851,
+    "delta_abs": 857,
+    "delta_pct": 0.414
+  },
+  "mean_reprojection_error_px": {
+    "baseline": 1.255,
+    "variant_e": 1.2569,
+    "delta_abs": 0.0019
+  },
+  "median_reprojection_error_px": {
+    "baseline": 1.2608,
+    "variant_e": 1.2627,
+    "delta_abs": 0.0019
+  },
+  "mean_observations_per_image": {
+    "baseline": 4308.24,
+    "variant_e": 4313.19,
+    "delta_abs": 4.95
+  },
+  "mean_track_length": {
+    "baseline": 6.8684,
+    "variant_e": 6.8479,
+    "delta_abs": -0.0205
+  },
+  "two_view_inliers": {
+    "baseline": 7468981,
+    "variant_e": 7464515,
+    "delta_abs": -4466,
+    "delta_pct": -0.06
+  },
+  "verified_pairs_count": {
+    "baseline": 7347,
+    "variant_e": 7343,
+    "delta_abs": -4
+  },
+  "database_size_mb": {
+    "baseline": 685.55,
+    "variant_e": 686.01,
+    "delta_mb": 0.46
+  },
+  "stage_runtimes_s": {
+    "feature_extraction": {
+      "baseline": 173.70799899101257,
+      "variant_e_incremental": 5.7
+    },
+    "exhaustive_matching": {
+      "baseline": 14485.554551839828,
+      "variant_e_historical": 13037.5
+    },
+    "sparse_mapping": {
+      "baseline": 2316.527501344681,
+      "variant_e_measured": 4511.6
+    },
+    "model_conversion": {
+      "baseline": 7.840295791625977,
+      "variant_e_measured": 22.6
+    }
+  }
+}
